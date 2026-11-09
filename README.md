@@ -19,4 +19,4 @@ python -m streamlit run dashboard.py
 - `simultaneous_pitches.sql` finds groups of pitches with the same start tick.
 - `high_velocity_notes_by_track.sql` joins note rows to track display labels.
 
-The portfolio page uses aggregate query results. Add a credited performance link or a hosted dashboard URL when available.
+
